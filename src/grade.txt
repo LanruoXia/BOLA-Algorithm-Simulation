@@ -1,0 +1,34 @@
+testALThard: 
+Results:Average bitrate:900000.0buffer time:1.001switches:7
+Score:476934.37989422074
+
+
+.DS_Store: 
+
+Unexpected output from the simulator
+
+testHD: 
+Results:Average bitrate:4300000.0buffer time:0.202switches:3
+Score:3313844.3497537626
+
+
+testPQ: 
+Results:Average bitrate:50000.0buffer time:246.38100000000003switches:0
+Score:0.16236394651992062
+
+
+badtest: 
+Results:Average bitrate:900000.0buffer time:1.012switches:5
+Score:563167.9547556783
+
+
+testALTsoft: 
+Results:Average bitrate:1883333.3333333333buffer time:6.941000000000001switches:6
+Score:799896.324979323
+
+
+testHDmanPQtrace: 
+Results:Average bitrate:50000.0buffer time:242.58399999999992switches:0
+Score:0.19727546227026632
+
+
